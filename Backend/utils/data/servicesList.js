@@ -1,0 +1,1183 @@
+module.exports = [
+  {
+    title: "Laundry Services",
+    imageUrl: "",
+    subcategories: [
+      {
+        title: "Complete Wash & Fold",
+        description: "(White + Color Clothes) (Excluding Blankets, Pillows & Duvets) (Minimum Wash at 30 Degrees) (Medium Heat Tumble Dry)",
+        price: 33.5,
+        quantity: 0,
+      },
+      {
+        title: "6 Kg Laundry Package",
+        description: "(1 x Mixed Load) (Excluding Blankets, Pillows & Duvets) (No Color Separation) (Minimum Wash at 30 Degrees) (Medium Heat Tumble Dry)",
+        price: 16.85,
+        quantity: 0,
+
+      },
+      {
+        title: "Convenient 6 Loads Bundle",
+        description: "£15.66 Per Load - Prepaid Package",
+        price: 93.68,
+        quantity: 0,
+        prepaidTotalItems:6,
+        perItemPrice:15.66,
+        
+
+      },
+      {
+        title: "Great Value 10 Loads Bundle",
+        description: "£14.85 Per Load - Prepaid Package",
+        price: 148.50,
+        quantity: 0,
+        prepaidTotalItems:10,
+        perItemPrice:14.85,
+      },
+      {
+        title: "Bulk 20 Loads Bundle",
+        description: "£13.85 Per Load - Prepaid Package",
+        price: 277,
+        quantity: 0,
+        prepaidTotalItems:20,
+        perItemPrice:13.85,
+      },
+      {
+        title: "Corporate Kitchen Linens",
+        description: "Special Wash & Iron Service for Business Clients",
+        price: 1,
+        quantity: 0,
+      }
+    ]
+  },
+
+  {
+    title: "Ironing Services",
+    imageUrl: "",
+    subcategories: [
+      {
+        title: "Shirt Pressing (On Hanger)",
+        description: "Expertly pressed shirts for a polished look.",
+        price: 2.25,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Formal Men's Shirts",
+        description: "Precision ironing for formal elegance.",
+        price: 2.25,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "T-Shirt Pressing (On Hanger)",
+        description: "Careful ironing for your favorite tees.",
+        price: 2.95,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Trouser Pressing (On Hanger)",
+        description: "ironing for a crisp finish.",
+        price: 4.5,
+        bundleQuantity: 1,
+
+        quantity: 0,
+      },
+      {
+        title: "Blouse Pressing (On Hanger)",
+        description: "Gentle ironing for a refined appearance.",
+        price: 4, bundleQuantity: 1,
+
+        quantity: 0,
+      },
+      {
+        title: "Skirt Pressing (On Hanger)",
+        description: "Careful ironing to enhance garment structure.",
+        price: 4,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Dress Pressing (On Hanger)",
+        description: "Expert ironing for dresses to look their best.",
+        price: 9,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Jumpsuit Pressing (On Hanger)",
+        description: "Precise ironing for a sophisticated jumpsuit.",
+        price: 10.4,
+        quantity: 0,
+        bundleQuantity: 1,
+      },
+      {
+        title: "Evening Dress Pressing (On Hanger)",
+        description: "Specialized ironing for elegant evening dresses.",
+        price: 13.5,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Jacket Pressing (On Hanger)",
+        description: "Careful ironing to maintain jacket shape.",
+        price: 6,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Cardigan Pressing (On Hanger)",
+        description: "Gentle ironing to preserve cardigan fabric.",
+        price: 4,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Two-Piece Suit Pressing (On Hanger)",
+        description: "ironing for a tailored appearance.",
+        price: 9,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Jeans Pressing (On Hanger)",
+        description: "Careful ironing to maintain denim texture.",
+        price: 4,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Single Bed Sheet Pressing (On Hanger)",
+        description: "Ironing service for a neatly pressed single bed sheet.",
+        price: 4,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Double Bed Sheet Pressing (On Hanger)",
+        description: "ironing for a neatly pressed double bed sheet.",
+        price: 6,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "King Bed Sheet Pressing (On Hanger)",
+        description: "Expert ironing for a neatly pressed king-size bed sheet.",
+        price: 6,
+        quantity: 0,
+      },
+      {
+        title: "Single Duvet Cover Pressing (On Hanger)",
+        description: "Careful ironing to maintain the quality of a single duvet cover.",
+        price: 5.5,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Double Duvet Cover Pressing (On Hanger)",
+        description: "ironing for a neatly pressed double duvet cover.",
+        price: 7.5,
+        bundleQuantity: 1,
+
+        quantity: 0,
+      },
+      {
+        title: "King Duvet Cover Pressing (On Hanger)",
+        description: "Expert ironing for a neatly pressed king-size duvet cover.",
+        price: 7.5,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Pillow Case Pressing (On Hanger)",
+        description: "Gentle ironing for a neatly pressed pillow case.",
+        price: 1.75,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Shorts Pressing (On Hanger)",
+        description: "Careful ironing to enhance the appearance of shorts.",
+        price: 3,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Ironing Per Kg (On Hanger)",
+        description: "ironing service billed per kilogram.",
+        price: 11,
+        bundleQuantity: 1,
+
+        quantity: 0,
+      }
+    ]
+  },
+  {
+    title: "Home Textile Services",
+    imageUrl: "",
+    subcategories: [
+      {
+        title: "Single Bed Linen Care",
+        description: "(Cleaned & Pressed) Includes Bed Sheet, Duvet Cover & Pillow Case",
+        price: 14,
+        quantity: 0,
+        bundleQuantity: 3,
+
+      },
+      {
+        title: "Double Bed Linen Care",
+        description: "(Cleaned & Pressed) Includes Bed Sheet, Duvet Cover & 2 Pillow Cases",
+        price: 16.25,
+        quantity: 0,
+        bundleQuantity: 4,
+      },
+      {
+        title: "King/Queen Bed Linen Care",
+        description: "(Cleaned & Pressed) Includes Bed Sheet, Duvet Cover & 4 Pillow Cases",
+        price: 21.5,
+        quantity: 0,
+        bundleQuantity: 6,
+
+      },
+      {
+        title: "Pillow Case Refresh",
+        description: "(Cleaned & Pressed) Individual Pillow Case Treatment",
+        price: 2.1,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Single Bed Sheet Revival",
+        description: "(Cleaned & Pressed) Individual Bed Sheet Treatment",
+        price: 4.95,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Double Bed Sheet Revival",
+        description: "(Cleaned & Pressed) Individual Bed Sheet Treatment",
+        price: 6.5,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "King Size Sheet Revival",
+        description: "(Cleaned & Pressed) Individual Bed Sheet Treatment",
+        price: 7.15,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Duvet Cover Single Renewal",
+        description: "(Cleaned & Pressed) Individual Duvet Cover Treatment",
+        price: 7,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Duvet Cover Double Renewal",
+        description: "(Cleaned & Pressed) Individual Duvet Cover Treatment",
+        price: 8,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Duvet Cover King Refresh",
+        description: "(Cleaned & Pressed) Individual Duvet Cover Treatment",
+        price: 9,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Duvet Cover Queen Refresh",
+        description: "(Cleaned & Pressed) Individual Duvet Cover Treatment",
+        price: 9.5,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Feather Pillow Service",
+        description: "(Clean or Dry Clean) Processing time up to 72 Hours",
+        price: 13,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Standard Pillow Service",
+        description: "(Clean / Dry Clean) Excludes Feather / Down",
+        price: 9.25,
+        bundleQuantity: 1,
+
+        quantity: 0,
+      },
+      {
+        title: "Single Duvet Treatment",
+        description: "(Clean/Dry Clean) Synthetic Material",
+        price: 16.5,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Double Duvet Treatment",
+        description: "(Clean/Dry Clean) Synthetic Material",
+        price: 21.25,
+        bundleQuantity: 1,
+
+        quantity: 0,
+      },
+      {
+        title: "King/Queen Duvet Care",
+        description: "(Clean/Dry Clean) Synthetic Material",
+        price: 23.5,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Feather Single Duvet Service",
+        description: "(Clean/Dry Clean) Processing time up to 72 Hours",
+        price: 18,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Feather Duvet Double/King Care",
+        description: "(Clean/Dry Clean | From) Processing time up to 72 Hours",
+        price: 27,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Thin Mattress Protector Revitalization",
+        description: "(Clean & Dry Clean)",
+        price: 14,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Single Blanket Treatment",
+        description: "(Clean/Dry Clean)",
+        price: 15.5,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "3m Table Cloth Service",
+        description: "Clean / Dry Clean",
+        price: 11.99,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Double/Large Blanket Care",
+        description: "(Clean / Dry Clean)",
+        price: 18,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Double Layer Mattress Protector Service",
+        description: "Clean / Dry Clean",
+        price: 35,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Heavy Curtains Per Kg",
+        description: "(Dry Clean / Wash | Per Kg)",
+        price: 9.99,
+        bundleQuantity: 1,
+
+        quantity: 0,
+      },
+      {
+        title: "Hand Towel Refurbishment",
+        description: "(Clean & Dry)",
+        price: 1.99,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Bath Towel Restoration",
+        description: "(Clean & Dry)",
+        price: 2.99,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Bath Mat Care",
+        description: "(Clean & Dry)",
+        price: 3,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Dressing Gown Service",
+        description: "(Clean & Dry)",
+        price: 8.99,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Tea Towel Treatment",
+        description: "(Clean & Dry)",
+        price: 1.5,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Custom Size Table Cloth Care",
+        description: "(Clean, Dry & Press)",
+        price: 0,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      }
+    ]
+  },
+  {
+
+    title: "Shirts and Tops Care",
+    imageUrl: "",
+    subcategories: [
+      {
+        title: "100x Prepaid Shirt Bundle",
+        description: "£2.0 Per Shirt",
+        price: 200,
+        quantity: 0,
+        prepaidTotalItems:100,
+        perItemPrice:2.0,
+      },
+      {
+        title: "5x Blouse Prepaid Bundle",
+        description: "£5.35 Per Blouse",
+        price: 26.75,
+        quantity: 0,
+        prepaidTotalItems:5,
+        perItemPrice:5.35,
+      },
+      {
+        title: "20x Blouse Prepaid Bundle",
+        description: "£4.5 Per Blouse",
+        price: 90,
+        quantity: 0,
+        prepaidTotalItems:20,
+        perItemPrice:4.5,
+      },
+      {
+        title: "10x Blouse Prepaid Bundle",
+        description: "£4.75 Per Blouse",
+        price: 47.5,
+        quantity: 0,
+        prepaidTotalItems:10,
+        perItemPrice:4.75,
+
+      },
+      {
+        title: "5 Shirts On Hanger",
+        description: "Wash & Iron (Hung) Excluding Ladies Shirts / Blouses",
+        price: 12.9,
+        quantity: 0,
+        bundleQuantity: 5,
+
+      },
+      {
+        title: "5 Shirts Wash & Fold",
+        description: "Wash & Iron (Fold)",
+        price: 16.52,
+        quantity: 0,
+        bundleQuantity: 5,
+
+
+      },
+      {
+        title: "3 Blouse Dry Clean",
+        description: "Dry Clean Service for Blouses",
+        price: 17.51,
+        quantity: 0,
+        bundleQuantity: 3,
+
+      },
+      {
+        title: "Hung Shirt Service",
+        description: "Wash & Iron (Hung)",
+        price: 2.8,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Hung T Shirt Service",
+        description: "Wash & Iron (Hung)",
+        price: 2.8,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Folded Shirt Service",
+        description: "Wash & Iron (Fold)",
+        price: 3.35,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Folded T Shirt Service",
+        description: "Wash & Iron (Fold)",
+        price: 3.35,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Ladies Shirt Care",
+        description: "Wash & Iron",
+        price: 3,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "5 Ladies Shirts Care",
+        description: "Wash & Iron Bundle",
+        price: 14.63,
+        quantity: 0,
+        bundleQuantity: 5,
+
+      },
+      {
+        title: "Blouse Dry Clean",
+        description: "Dry Clean Service for Blouses",
+        price: 6,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Silk Blouse Dry Clean",
+        description: "Dry Clean Service for Silk Blouses",
+        price: 7,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "50x Shirts Bundle",
+        description: "£2.30 Per Shirt",
+        price: 115,
+        quantity: 0,
+        bundleQuantity: 50,
+      },
+      {
+        title: "20x Prepaid Shirt Bundle",
+        description: "£2.50 Per Shirt",
+        price: 50,
+        quantity: 0,
+        prepaidTotalItems:20,
+        perItemPrice:2.50,
+      }
+    ]
+  },
+
+
+  {
+    title: "Elegant Suits Care",
+    imageUrl: "",
+    subcategories: [
+      {
+        title: "5 x 2 Piece Suit Prepaid Bundle",
+        description: "£11.75 Per Suit",
+        price: 58.75,
+        quantity: 0,
+        bundleQuantity: 10,
+        prepaidTotalItems:5,
+        perItemPrice:11.75,
+      },
+      {
+        title: "20 x 2 Piece Suit Prepaid Bundle",
+        description: "£8.75 Per Suit",
+        price: 175.01,
+        quantity: 0, bundleQuantity: 40,
+        prepaidTotalItems:20,
+        perItemPrice:8.75,
+
+      },
+      {
+        title: "10 x 2 Piece Suit Prepaid Bundle",
+        description: "£9.75 Per Suit",
+        price: 97.5,
+        quantity: 0,
+        bundleQuantity: 20,
+        prepaidTotalItems:10,
+        perItemPrice:9.75,
+
+      },
+      {
+        title: "Suit + 5 Shirts",
+        description: "(Dry Clean) 2 Piece Suit + 5 Shirts (Hung)",
+        price: 25.5,
+        quantity: 0,
+        bundleQuantity: 7,
+        
+
+      },
+      {
+        title: "2 Suits Dry Clean",
+        description: "(Dry Clean) 2 Piece Suit Only",
+        price: 23.85,
+        quantity: 0,
+        bundleQuantity: 4,
+
+      },
+      {
+        title: "Single 2 Piece Suit Dry Clean",
+        description: "(Dry Clean)",
+        price: 12.95,
+        quantity: 0,
+        bundleQuantity: 2,
+
+      },
+      {
+        title: "3 Piece Suit Dry Clean",
+        description: "(Dry Clean)",
+        price: 17.5,
+        quantity: 0,
+        bundleQuantity: 3,
+
+      },
+      {
+        title: "Dinner Suit Dry Clean",
+        description: "(Dry Clean)",
+        price: 16.5,
+        quantity: 0,
+        bundleQuantity: 2,
+
+      },
+      {
+        title: "Dinner Jacket Dry Clean",
+        description: "(Dry Clean) Excluding velvet, sequins, silk & leather",
+        price: 9,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Waist Coat Dry Clean",
+        description: "(Dry Clean)",
+        price: 6.25,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Tie Dry Clean",
+        description: "(Dry Clean)",
+        price: 4.95,
+        bundleQuantity: 1,
+
+        quantity: 0,
+      }
+    ]
+  },
+  {
+    title: "Dresses and Skirts Care",
+    imageUrl: "",
+    subcategories: [
+      {
+        title: "5 x Dress Prepaid Bundle",
+        description: "£11.7 Per Dress",
+        price: 58.5,
+        quantity: 0,
+        prepaidTotalItems:5,
+        perItemPrice:11.7,
+      },
+      {
+        title: "10x Dress Prepaid Bundle",
+        description: "£9.75 Per Dress",
+        price: 97.5,
+        quantity: 0,
+        prepaidTotalItems:10,
+        perItemPrice:9.75,
+      },
+      {
+        title: "20x Dress Prepaid Bundle",
+        description: "£8.75 Per Dress",
+        price: 175.01,
+        quantity: 0,
+        prepaidTotalItems:20,
+        perItemPrice:8.75,
+      },
+      {
+        title: "2 Dresses Dry Clean",
+        description: "Dry Clean Service (Excluding velvet, sequins, silk & leather)",
+        price: 23.74,
+        quantity: 0,
+        bundleQuantity: 2,
+        
+
+      },
+      {
+        title: "Single Dress Dry Clean",
+        description: "Dry Clean Service (Excluding velvet, sequins, silk & leather)",
+        price: 12,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Delicate Dress Dry Clean",
+        description: "Dry Clean Service",
+        price: 15,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Silk Dress Dry Clean",
+        description: "Dry Clean Service",
+        price: 15,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Skirt Dry Clean",
+        description: "Dry Clean Service",
+        price: 6.95,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Pleated Skirt Dry Clean",
+        description: "Dry Clean Service",
+        price: 9,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Silk Skirt Dry Clean",
+        description: "Dry Clean Service",
+        price: 8.5,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Delicate Skirt Dry Clean",
+        description: "Dry Clean Service",
+        price: 9,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Evening Dress Dry Clean",
+        description: "Dry Clean Service",
+        price: 20,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      }
+    ]
+  },
+  {
+
+    title: "Trousers Care",
+    imageUrl: "",
+    subcategories: [
+      {
+        title: "5x Trousers Bundle",
+        description: "£6.8 Per Trouser",
+        price: 34,
+        quantity: 0,
+        bundleQuantity: 5,
+
+      },
+      {
+        title: "10x Prepaid Trouser Bundle",
+        description: "£6.35 Per Trouser",
+        price: 63.5,
+        quantity: 0,
+        prepaidTotalItems:10,
+        perItemPrice:6.35,
+      },
+      {
+        title: "20x Prepaid Trouser Bundle",
+        description: "£5.4 Per Trouser",
+        price: 108,
+        quantity: 0,
+        prepaidTotalItems:20,
+        perItemPrice:5.4,
+      },
+      {
+        title: "Single Trouser Dry Clean",
+        description: "Dry Clean Service",
+        price: 7,
+        quantity: 0,
+        bundleQuantity: 1,
+        
+      },
+      {
+        title: "Jeans Dry Clean",
+        description: "Dry Clean Service",
+        price: 6,
+        quantity: 0,
+        bundleQuantity: 1,
+      },
+      {
+        title: "Silk Trouser Dry Clean",
+        description: "Dry Clean Service",
+        price: 8.5,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Shorts Dry Clean",
+        description: "Dry Clean Service",
+        price: 4.75,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      }
+    ]
+  },
+  {
+    title: "Outdoor Clothing",
+    imageUrl: "",
+    subcategories: [
+      {
+        title: "5x Outdoor Trousers Bundle",
+        description: "£6.8 Per Trouser",
+        price: 34,
+        quantity: 0,
+        bundleQuantity: 5,
+
+      },
+      {
+        title: "10x Prepaid Outdoor Trouser Bundle",
+        description: "£6.35 Per Trouser",
+        price: 63.5,
+        quantity: 0,
+        prepaidTotalItems:10,
+        perItemPrice:6.35,
+
+      },
+      {
+        title: "20x Prepaid Outdoor Trouser Bundle",
+        description: "£5.4 Per Trouser",
+        price: 108,
+        quantity: 0,
+        prepaidTotalItems:20,
+        perItemPrice:5.4,
+      },
+      {
+        title: "Single Outdoor Trouser Dry Clean",
+        description: "Dry Clean Service",
+        price: 7,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Jeans Dry Clean for Outdoor Wear",
+        description: "Dry Clean Service",
+        price: 6,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Silk Outdoor Trouser Dry Clean",
+        description: "Dry Clean Service",
+        price: 8.5,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      },
+      {
+        title: "Outdoor Shorts Dry Clean",
+        description: "Dry Clean Service",
+        price: 4.75,
+        quantity: 0,
+        bundleQuantity: 1,
+
+      }
+    ]
+  },
+
+  {
+    title: "Alterations",
+    imageUrl: "",
+
+    subcategories: [
+      {
+        title: "Trouser Length",
+        description: "",
+        price: 14.5,
+        quantity: 0,
+      },
+      {
+        title: "Trousers With Turn Up",
+        description: "",
+        price: 14.5,
+        quantity: 0,
+      },
+      {
+        title: "Trousers Waist",
+        description: "",
+        price: 16.0,
+        quantity: 0,
+      },
+      {
+        title: "Skirt Length",
+        description: "(From)",
+        price: 17.0,
+        quantity: 0,
+      },
+      {
+        title: "Dress Length",
+        description: "(From)",
+        price: 18.0,
+        quantity: 0,
+      },
+      {
+        title: "Trousers Zips",
+        description: "(From)",
+        price: 15.0,
+        quantity: 0,
+      },
+      {
+        title: "Invisible Zips",
+        description: "(From)",
+        price: 16.5,
+        quantity: 0,
+      },
+      {
+        title: "Jacket Zips",
+        description: "(From)",
+        price: 30,
+        quantity: 0,
+      },
+      {
+        title: "Repair Pocket",
+        description: "(From)",
+        price: 10,
+        quantity: 0,
+      },
+      {
+        title: "Patching",
+        description: "(From)",
+        price: 12.50,
+        quantity: 0,
+      },
+      {
+        title: "Sew On Button",
+        description: "",
+        price: 2.99,
+        quantity: 0,
+      },
+      {
+        title: "Seams",
+        description: "(From)",
+        price: 8,
+        quantity: 0,
+      },
+    ]
+  },
+  {
+    imageUrl: "",
+    title: "Shoe Repair",
+    subcategories: [
+      {
+        title: "Ladies- Heel Tips",
+        description: "(Price may vary)",
+        price: 11.95,
+        quantity: 0,
+      },
+      {
+        title: "Ladies Rubber Half Sole",
+        description: "",
+        price: 26.0,
+        quantity: 0,
+      },
+      {
+        title: "Ladies leather sole & Leather Half Heel",
+        description: "(Price may vary)",
+        price: 45.00,
+        quantity: 0,
+      },
+      {
+        title: "Ladies Leather Half Soles (Full Sole)",
+        description: "",
+        price: 37.0,
+        quantity: 0,
+    
+      },
+      {
+        title: "Women's rubber soles",
+        description: "(Price may vary)",
+        price: 25.00,
+        quantity: 0,
+      },
+      {
+        title: "Rubber Sole & Heel",
+        description: "",
+        price: 34.0,
+        quantity: 0,
+      },
+      {
+        title: "Women's Shoe Stitch Glue",
+        description: "(Stitch/glue)",
+        price: 14.00,
+        quantity: 0,
+      },
+      {
+        title: "New insoles",
+        description: "",
+        price: 12.0,
+        quantity: 0,
+      },
+      {
+        title: "Ladies shoe cleaning",
+        description: "(Clean / Polish / Protect)",
+        price: 11.00,
+        quantity: 0,
+      },
+      {
+        title: "Ankle Boots Cleaning",
+        description: "(Clean, Polish, Repair)",
+        price: 25.00,
+        quantity: 0,
+      },
+      {
+        title: "Women's Leather Shoe Clean",
+        description: "",
+        price: 20.0,
+        quantity: 0,
+      },
+      {
+        title: "Women's Shoe Zip Change (From)",
+        description: "",
+        price: 45.0,
+        quantity: 0,
+      },
+      {
+        title: "Mens Rubber Heels",
+        description: "",
+        price: 20.0,
+        quantity: 0,
+      },
+      {
+        title: "Men's Half Soles",
+        description: "",
+        price: 28.0,
+        quantity: 0,
+      },
+      {
+        title: "Men's leather H Sole & Heel",
+        description: "",
+        price: 64.0,
+        quantity: 0,
+      },
+      {
+        title: "Men's 1/4 rubber heel",
+        description: "",
+        price: 20.0,
+        quantity: 0,
+      },
+      {
+        title: "Men's 1/4 steel heel",
+        description: "",
+        price: 20.0,
+        quantity: 0,
+      
+      },
+      {
+        title: "Men Rubber Half sole",
+        description: "",
+        price: 30.0,
+        quantity: 0,
+      },
+      {
+        title: "Men's Toes leather/rubber",
+        description: "",
+        price: 15.0,
+        quantity: 0,
+      },
+      {
+        title: "Men's repairs of inside",
+        description: "",
+        price: 30.0,
+        quantity: 0,
+      },
+      {
+        title: "Men's shoe cleaning",
+        description: "",
+        price: 14.0,
+        quantity: 0,
+      },
+      {
+        title: "Men Boots Cleaning",
+        description: "",
+        price: 15.0,
+        quantity: 0,
+      },
+      {
+        title: "Men Leather Shoe Clean",
+        description: "",
+        price: 20.0,
+        quantity: 0,
+     },
+      {
+        title: "Men Shoe Zip",
+        description: "",
+        price: 20.0,
+        quantity: 0,
+      }
+
+    ]
+  }
+];
